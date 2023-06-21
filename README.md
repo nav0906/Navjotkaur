@@ -1,3 +1,3 @@
-name : Navjotkaur
-student id : 8907120
-section : 3
+Name : Navjotkaur
+Student id : 8907120
+Section : 3
